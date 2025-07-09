@@ -13,7 +13,7 @@ attempts = 6
 used_letters = []
 
 print("Welcome to Hangman Game!")
-print("\nThis word is also a froutes name")
+print("\nThis word is also a fruits name")
 # now we apply the looping concept for performing the operation for the task
 while attempts > 0 and '_' in guessed_letters:
     print("\nWord: ", ' '.join(guessed_letters))
