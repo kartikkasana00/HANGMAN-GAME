@@ -37,7 +37,6 @@ while attempts > 0 and '_' in guessed_letters:
         for i in range(len(word)):
             if word[i] == guess:
                 guessed_letters[i] = guess
-                break
     else:
         print("Wrong guess.")
         attempts -= 1
