@@ -4,7 +4,7 @@ This is a simple *Hangman game* built using *Python*. It is a beginner-friendly 
 
 ##  How to Play
 
-- The game will randomly choose a fruits word.
+- The game will randomly choose a word.
 - You need to guess the word by entering one letter at a time.
 - You have a limited number of incorrect guesses before you lose.
 - The game ends when:
